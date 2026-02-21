@@ -1,0 +1,98 @@
+2026-01-31 10:42:00 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:00 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:00 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:00 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\harsh\AppData\Local\Temp\testng-eclipse-374221419\testng-customsuite.xml
+
+2026-01-31 10:42:00 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@69499c6f: 45 ms
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3041beb3: 1 ms
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@5fbae40: 4 ms
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3d132bb6: 6 ms
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5273143e: 4 ms
+2026-01-31 10:42:09 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@279c4e3b: 0 ms
+2026-01-31 10:42:38 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:38 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:38 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-01-31 10:42:38 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\harsh\AppData\Local\Temp\testng-eclipse-2018530948\testng-customsuite.xml
+
+2026-01-31 10:42:38 [main] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@15cee630: 53 ms
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@60ae7cf2: 8 ms
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@636e4bf8: 6 ms
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@389a1e34: 6 ms
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2d38db6f: 5 ms
+2026-01-31 10:42:46 [main] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@37cf91d8: 0 ms
+2026-01-31 10:43:29 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:43:29 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:43:29 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:43:29 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\harsh\eclipse-workspace\Seleniumframework\testngwithlisenter.xml
+
+2026-01-31 10:44:37 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:44:37 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:44:37 [main] WARN  TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-01-31 10:44:37 [main] INFO  Utils - [TestNG] Running:
+  C:\Users\harsh\eclipse-workspace\Seleniumframework\testngwithlisenter.xml
+

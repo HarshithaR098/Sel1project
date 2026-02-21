@@ -1,0 +1,39 @@
+pipeline {
+    agent any
+
+    tools {
+        maven 'Maven3'
+        jdk 'JDK17'
+    }
+
+    stages {
+
+        stage('Checkout') {
+            steps {
+                git 'https://github.com/HarshithaR098/Sel1project.git'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                bat 'mvn clean compile'
+            }
+        }
+
+        stage('Execute Tests') {
+            steps {
+                bat 'mvn clean test'
+            }
+        }
+    }
+
+    post {
+    always {
+
+        allure includeProperties: false,
+               jdk: '',
+               results: [[path: 'target/allure-results']]
+    }
+}
+
+}
